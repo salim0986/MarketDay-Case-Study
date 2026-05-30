@@ -428,13 +428,21 @@ The platform is production-ready and actively serving organizations. Planned add
 - **A/B title testing** — generate multiple title variants and surface click-through data from GSC
 - **Comment and engagement tracking** — aggregate reader engagement signals back into the ROI scorer for future opportunity ranking
 
+## AI Pipelines & Orchestration
+
+See [docs/ai-pipelines.md](docs/ai-pipelines.md) for detailed Mermaid state diagrams of the LangGraph workflows, including the 7-stage single-article generator and the 5-stage Content Hub Engine.
+
+## System Sequence Flows
+
+See [docs/sequence-flows.md](docs/sequence-flows.md) for sequence diagrams mapping the asynchronous interactions between the Next.js frontend, FastAPI microservice, and external LLM providers during content generation and publishing.
+
 ## Architecture Diagram
 
-See [assets/system-architecture.png](assets/system-architecture.png) for a visual representation of the system including the Next.js + FastAPI service split, LangGraph pipeline stages, Supabase data flows, Redis job queue, and custom domain routing.
+See [docs/system-architecture.md](docs/system-architecture.md) for a visual representation of the system including the Next.js + FastAPI service split, LangGraph pipeline stages, Supabase data flows, Redis job queue, and custom domain routing.
 
 ## Database Schema
 
-See [assets/database-schema.png](assets/database-schema.png) for the complete entity-relationship diagram showing all twenty tables, foreign key relationships, and key constraints.
+See [docs/database-schema.md](docs/database-schema.md) for the complete entity-relationship diagram showing all twenty tables, foreign key relationships, and key constraints. You can also view the raw SQL definitions in [docs/schema.sql](docs/schema.sql).
 
 ## API Reference
 
