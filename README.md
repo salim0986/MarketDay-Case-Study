@@ -2,7 +2,7 @@
 
 A full-stack, multi-tenant SaaS platform that autonomously discovers content opportunities, generates SEO-optimized articles through a multi-agent AI pipeline, and publishes them across every major CMS — without human intervention.
 
-[![Watch the video](https://github.com/salim0986/MarketDay-Case-Study/blob/caaa5839a8527f84fd07519b8c3bb12c165f9e3d/assets/marketday-thumbnail.png)](https://github.com/salim0986/MarketDay-Case-Study/blob/d01de4b10b70d790840dda2d977e67febecd316d/assets/marketday-demo.mp4)
+[![Watch the video](https://github.com/salim0986/MarketDay-Case-Study/blob/5e175aa5f7718c9a53c0ebdb2a2482311cc27b36/assets/marketday-thumbnail.png)](https://www.youtube.com/watch?v=Sw6EkbEqM8Q)
 
 
 
