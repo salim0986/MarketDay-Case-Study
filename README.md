@@ -2,6 +2,10 @@
 
 A full-stack, multi-tenant SaaS platform that autonomously discovers content opportunities, generates SEO-optimized articles through a multi-agent AI pipeline, and publishes them across every major CMS — without human intervention.
 
+[![Watch the video](https://github.com/salim0986/MarketDay-Case-Study/blob/caaa5839a8527f84fd07519b8c3bb12c165f9e3d/assets/marketday-thumbnail.png)](https://github.com/salim0986/MarketDay-Case-Study/blob/d01de4b10b70d790840dda2d977e67febecd316d/assets/marketday-demo.mp4)
+
+
+
 ## Project Overview
 
 MarketDay is an autonomous growth engine I built for businesses that want to scale their organic search presence without scaling their content team. The platform handles the entire content lifecycle: discovering high-ROI content opportunities from competitor gaps and audience pain points, generating pillar-and-cluster topic structures, writing and internally linking every article through a multi-stage LangGraph agent pipeline, and drip-publishing the output to WordPress, Shopify, Ghost, Framer, Webflow, or Wix on a configurable weekly cadence.
